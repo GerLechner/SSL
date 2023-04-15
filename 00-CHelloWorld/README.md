@@ -1,0 +1,1 @@
+Version compilador: gcc version 9.2.0 (MinGW.org GCC Build-2) 
